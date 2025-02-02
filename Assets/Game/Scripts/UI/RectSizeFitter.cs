@@ -2,7 +2,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace MoneyGiant.UI {
+namespace Birdays.UI {
 	[ExecuteInEditMode]
 	public class RectSizeFitter : MonoBehaviour {
 
